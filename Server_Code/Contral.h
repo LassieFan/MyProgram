@@ -38,3 +38,4 @@ void Contral::Process(char* sendbuff,int fd)
 	if(_m->GetView(num)!=NULL)
 		_m->GetView(num)->view_handle(sendbuff,fd); //多态调用
 }
+
