@@ -172,3 +172,4 @@ void RegisterView::view_handle(char* buff,int fd)//register和login是直接输�
 	}
 }
 #endif
+
