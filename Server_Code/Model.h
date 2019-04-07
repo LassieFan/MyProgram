@@ -29,3 +29,4 @@ View* Model::GetView(int type)
 		return NULL;
 	return mmap[type];
 }
+
