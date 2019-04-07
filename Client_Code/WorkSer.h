@@ -53,3 +53,4 @@ int WorkSer::RecvFromMainSer(string &recvbuff) //引用避免生成临时对象
 	return cli->Recv(recvbuff);
 }
 #endif
+
