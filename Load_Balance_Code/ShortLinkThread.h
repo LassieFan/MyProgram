@@ -67,3 +67,4 @@ void* ShortLinkThread::DealEvent(void *arg)
 	}
 }
 #endif
+
